@@ -1,0 +1,3 @@
+@echo off
+echo Запуск сайта...
+start "" "%~dp0index.html"
